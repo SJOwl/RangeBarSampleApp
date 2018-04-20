@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialRangeBar">
+        <attr name="sjmrb_thumbRadiusFree" format="dimension" />
+        <attr name="sjmrb_thumbRadiusActive" format="dimension" />
+        <attr name="sjmrb_thumbShadowColor" format="color" />
+        <attr name="sjmrb_thumbShadowRadius" format="dimension" />
+        <attr name="sjmrb_thumbShadowDX" format="dimension" />
+        <attr name="sjmrb_thumbShadowDY" format="dimension" />
+        <attr name="sjmrb_thumbColor" format="color" />
+        <attr name="sjmrb_animationDuarionMS" format="integer" />
+        <attr name="sjmrb_rangeOuterThickness" format="dimension" />
+        <attr name="sjmrb_rangeInnerColor" format="color" />
+        <attr name="sjmrb_rangeInnerThickness" format="dimension" />
+        <attr name="sjmrb_rangeOuterColor" format="color" />
+        <attr name="sjmrb_valueMin" format="integer" />
+        <attr name="sjmrb_valueMax" format="integer" />
+        <attr name="sjmrb_thumbPosLeft" format="integer" />
+        <attr name="sjmrb_thumbPosRight" format="integer" />
+
+    </declare-styleable>
+</resources>

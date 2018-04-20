@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RangeBarSampleApp.iml" filepath="$PROJECT_DIR$/RangeBarSampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialrangebar/materialrangebar.iml" filepath="$PROJECT_DIR$/materialrangebar/materialrangebar.iml" />
+    </modules>
+  </component>
+</project>
