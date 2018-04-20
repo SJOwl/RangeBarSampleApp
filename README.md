@@ -1,4 +1,5 @@
 # Material range bar
+<img src="https://github.com/SJOwl/RangeBarSampleApp/blob/master/screen.png?raw=true" alt="screen.png" width="40%">
 
 # Features
 Material thumbs with shades.
